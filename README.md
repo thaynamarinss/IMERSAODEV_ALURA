@@ -4,4 +4,4 @@
 </br> 
 -Esse foi o primeiro projeto da imersão dev - Alura (1/10)
 </br>
--O foco desse projeto foi na linguagem Java Script.
+-O foco desse projeto foi na linguagem JavaScript.
